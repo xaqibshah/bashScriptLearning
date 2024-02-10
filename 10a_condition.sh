@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-#describe logical operatiors using Multi line Comment
+#describe relational operatiors using Multi line Comment
 <<comment
 equal 				-eq/==
 Greaterthanorequalto		-ge
