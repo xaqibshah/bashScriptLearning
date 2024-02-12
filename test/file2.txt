@@ -1,0 +1,1 @@
+ foo word This is file 2 the contain 2 foo word.
