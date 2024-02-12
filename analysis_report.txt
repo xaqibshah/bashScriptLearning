@@ -1,0 +1,8 @@
+Log File Analysis Report
+-------------------------
+Total Requests: 7153
+Unique IP Addresses: 1
+Top 5 IP Addresses:
+   7153 Feb
+Total Size of Data Transferred: 4.77419e+10 bytes
+Report generated on: و 23:43:00 PKT ت 12 فروری 2024
