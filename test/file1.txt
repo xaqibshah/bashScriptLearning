@@ -1,1 +1,3 @@
 this is file 1 contain foo string
+hello scripty ppls
+we are in NU
